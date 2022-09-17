@@ -1,4 +1,5 @@
 ## Take data from API NYT
+##Code derived from the [medium article](https://towardsdatascience.com/collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004) by Brienna Herold
 
 #### Import libraries
 """
